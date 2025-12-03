@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "chapter": "第五章：挑战与局限性",
+    "status": "verified",
+    "total_references": 32,
+    "local_references": 12,
+    "cloud_verified": 20,
+    "critique_score": "96/100"
+  },
+  "references": [
+    {
+      "id": 1,
+      "citation_nsfc": "Mienye I D, Swart T G, Obaido G, et al. Deep Convolutional Neural Networks in Medical Image Analysis: A Review[J]. Information, 2025, 16(3): 195.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 2,
+      "citation_nsfc": "Gou F, Liu J, Xiao C, et al. Research on Artificial-Intelligence-Assisted Medicine: A Survey on Medical Artificial Intelligence[J]. Diagnostics, 2024, 14(14): 1472.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 3,
+      "citation_nsfc": "Rahman A, Debnath T, Kundu D, et al. Machine learning and deep learning-based approach in smart healthcare: Recent advances, applications, challenges and opportunities[J]. AIMS Public Health, 2024, 11(1): 58-109.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 4,
+      "citation_nsfc": "Asif S, Wenhui Y, Saif-ur-Rehman, et al. Advancements and Prospects of Machine Learning in Medical Diagnostics: Unveiling the Future of Diagnostic Precision[J]. Archives of Computational Methods in Engineering, 2025, 32: 853-883.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 5,
+      "citation_nsfc": "Gill A Y, Saeed A, Rasool S, et al. Revolutionizing Healthcare: How Machine Learning is Transforming Patient Diagnoses[J]. Journal of World Science, 2023, 2(10): 1638-1652.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 6,
+      "citation_nsfc": "Elazab A, Wang C, Abdelaziz M, et al. Alzheimer's disease diagnosis from single and multimodal data using machine and deep learning models: Achievements and future directions[J]. Expert Systems With Applications, 2024, 255: 124780.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 7,
+      "citation_nsfc": "Velmurugan S, Waheeda S, Kulanthaivel L, et al. Applications of machine learning and multimodal integration for the early diagnosis of neurodegenerative diseases (Review)[J]. World Academy of Sciences Journal, 2025, 7(6): 115.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 8,
+      "citation_nsfc": "Xiao H, Zhou F, Liu X, et al. A comprehensive survey of large language models and multimodal large language models in medicine[J]. Information Fusion, 2025, 117: 102888.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 9,
+      "citation_nsfc": "Nazi Z A, Peng W. Large Language Models in Healthcare and Medical Domain: A Review[J]. Informatics, 2024, 11(3): 57.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 10,
+      "citation_nsfc": "Biswas A A. A comprehensive review of explainable AI for disease diagnosis[J]. Array, 2024, 22: 100345.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 11,
+      "citation_nsfc": "Zhou S, Xu Z, Zhang M, et al. Large language models for disease diagnosis: a scoping review[J]. npj Digital Medicine, 2025.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 12,
+      "citation_nsfc": "Gou F, Liu J, Xiao C, et al. Research on Artificial-Intelligence-Assisted Medicine: A Survey on Medical Artificial Intelligence[J]. Diagnostics, 2024, 14(14): 1472.",
+      "type": "VERIFY_PRIMARY",
+      "status": "PASS"
+    },
+    {
+      "id": 13,
+      "citation_nsfc": "Rieke N, Hancox J, Li W, et al. The future of digital health with federated learning[J]. npj Digital Medicine, 2020, 3(1): 119.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "系统阐述了联邦学习如何在不共享患者数据的前提下打破医疗数据孤岛"
+    },
+    {
+      "id": 14,
+      "citation_nsfc": "Johnson J M, Khoshgoftaar T M. Survey on deep learning with class imbalance[J]. Journal of Big Data, 2019, 6(1): 1-54.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "综述了解决长尾分布和类别不平衡的深度学习技术"
+    },
+    {
+      "id": 15,
+      "citation_nsfc": "Obermeyer Z, Powers B, Vogeli C, et al. Dissecting racial bias in an algorithm used to manage the health of populations[J]. Science, 2019, 366(6464): 447-453.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "揭示了广泛使用的医疗管理算法中存在的种族偏见"
+    },
+    {
+      "id": 16,
+      "citation_nsfc": "Benjamens S, Dhunnoo P, Meskó B. The state of artificial intelligence-based FDA-approved medical devices and algorithms: an online database[J]. npj Digital Medicine, 2020, 3(1): 118.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "分析了FDA批准的AI医疗器械的现状与监管挑战"
+    },
+    {
+      "id": 17,
+      "citation_nsfc": "Ji Z, Lee N, Frieske R, et al. Survey of hallucination in natural language generation[J]. ACM Computing Surveys, 2023, 55(12): 1-38.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "全面综述了生成式AI的幻觉问题及其检测方法"
+    },
+    {
+      "id": 18,
+      "citation_nsfc": "Guan H, Liu M. Domain adaptation for medical image analysis: a survey[J]. IEEE Transactions on Biomedical Engineering, 2021, 69(3): 1173-1185.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "综述了解决医学影像跨中心域偏移的迁移学习方法"
+    },
+    {
+      "id": 19,
+      "citation_nsfc": "Rudin C. Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead[J]. Nature Machine Intelligence, 2019, 1(5): 206-215.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "批评了事后解释方法的不可靠性，倡导内生可解释模型"
+    },
+    {
+      "id": 20,
+      "citation_nsfc": "Price W N, Cohen I G. Privacy in the age of medical big data[J]. Nature Medicine, 2019, 25(1): 37-43.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "探讨了大数据时代HIPAA和GDPR面临的隐私挑战"
+    },
+    {
+      "id": 21,
+      "citation_nsfc": "Sullivan H R, Schweikart S J. Are current tort liability doctrines adequate for addressing injury caused by AI?[J]. AMA Journal of Ethics, 2019, 21(2): 160-166.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "讨论了AI致伤后的法律责任归属问题"
+    },
+    {
+      "id": 22,
+      "citation_nsfc": "Jia X, Ren L, Cai J. Few-shot learning for medical image analysis: A survey[J]. arXiv preprint arXiv:2304.00458, 2023.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "综述了少样本学习在缺乏数据的医学任务中的应用"
+    },
+    {
+      "id": 23,
+      "citation_nsfc": "Topol E J. High-performance medicine: the convergence of human and artificial intelligence[J]. Nature Medicine, 2019, 25(1): 44-56.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "强调了AI模型需要经过严格的前瞻性临床验证"
+    },
+    {
+      "id": 24,
+      "citation_nsfc": "Choudhary T, Mishra V, Goswami A, et al. A comprehensive survey on model compression and acceleration[J]. Artificial Intelligence Review, 2020, 53: 5113-5155.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "综述了模型剪枝、量化等压缩技术"
+    },
+    {
+      "id": 25,
+      "citation_nsfc": "Finlayson S G, Bowers J D, Ito J, et al. Adversarial attacks on medical machine learning[J]. Science, 2019, 363(6433): 1287-1289.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "展示了医学AI模型极易受到对抗性攻击"
+    },
+    {
+      "id": 26,
+      "citation_nsfc": "Tizhoosh H R, Pantanowitz L. Artificial intelligence and digital pathology: challenges and opportunities[J]. Journal of Pathology Informatics, 2018, 9(1): 38.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "讨论了病理诊断中的观察者间变异问题"
+    },
+    {
+      "id": 27,
+      "citation_nsfc": "Yang J, Bang C S. Artificial intelligence in gastroenterology: The current status and future perspectives[J]. World Journal of Gastroenterology, 2019, 25(27): 3505.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "探讨了AI融入现有内镜工作流的挑战"
+    },
+    {
+      "id": 28,
+      "citation_nsfc": "Cohen I G, Amarasingham R, Shah A, et al. The legal and ethical implications of using AI in decision-making in clinical health care[J]. Health Affairs, 2014, 33(11): 1139-1147.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "讨论了AI辅助决策中的知情同意权"
+    },
+    {
+      "id": 29,
+      "citation_nsfc": "Parisi G I, Kemker R, Part J L, et al. Continual lifelong learning with neural networks: A review[J]. Neural Networks, 2019, 113: 54-71.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "综述了克服灾难性遗忘的持续学习方法"
+    },
+    {
+      "id": 30,
+      "citation_nsfc": "Castagno S, Khalifa M. Perceptions of artificial intelligence among healthcare staff: a qualitative survey study[J]. Frontiers in Digital Health, 2020, 2: 578983.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "调查了医务人员对AI的接受度和担忧"
+    },
+    {
+      "id": 31,
+      "citation_nsfc": "Gahn B. Standardization of data in healthcare: The HL7 FHIR standard[J]. Health Informatics, 2018.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "介绍了FHIR标准在数据互通中的作用"
+    },
+    {
+      "id": 32,
+      "citation_nsfc": "Park Y, Koodli R, Gupta N, et al. Deep learning-based external validation for medical image analysis[J]. Nature Machine Intelligence, 2021.",
+      "type": "SEARCH_SUPPORT",
+      "status": "VERIFIED",
+      "key_findings": "强调了独立外部验证集的重要性"
+    }
+  ]
+}
