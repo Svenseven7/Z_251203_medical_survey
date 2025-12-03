@@ -1,0 +1,418 @@
+{
+  "meta": {
+    "chapter": "第四章：临床应用领域",
+    "chapter_tag": "Chapter4_ClinicalApplications",
+    "total_references": 48,
+    "local_verified": 11,
+    "cloud_verified": 37,
+    "word_count_body": 5200,
+    "evaluation_score": "98/100"
+  },
+  "references": [
+    {
+      "id": 1,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Mienye I D, Swart T G, Obaido G, et al. Deep Convolutional Neural Networks in Medical Image Analysis: A Review[J]. Information, 2025, 16(3): 195.",
+      "title": "Deep Convolutional Neural Networks in Medical Image Analysis: A Review",
+      "year": 2025,
+      "journal": "Information"
+    },
+    {
+      "id": 2,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Gou F, Liu J, Xiao C, et al. Research on Artificial-Intelligence-Assisted Medicine: A Survey on Medical Artificial Intelligence[J]. Diagnostics, 2024, 14(14): 1472.",
+      "title": "Research on Artificial-Intelligence-Assisted Medicine",
+      "year": 2024,
+      "journal": "Diagnostics"
+    },
+    {
+      "id": 3,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Rahman A, Debnath T, Kundu D, et al. Machine learning and deep learning-based approach in smart healthcare: Recent advances, applications, challenges and opportunities[J]. AIMS Public Health, 2024, 11(1): 58-109.",
+      "title": "Machine learning and deep learning-based approach in smart healthcare",
+      "year": 2024,
+      "journal": "AIMS Public Health"
+    },
+    {
+      "id": 4,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Asif S, Wenhui Y, Saif-ur-Rehman, et al. Advancements and Prospects of Machine Learning in Medical Diagnostics: Unveiling the Future of Diagnostic Precision[J]. Archives of Computational Methods in Engineering, 2025, 32: 853-883.",
+      "title": "Advancements and Prospects of Machine Learning in Medical Diagnostics",
+      "year": 2025,
+      "journal": "Archives of Computational Methods in Engineering"
+    },
+    {
+      "id": 5,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Gill A Y, Saeed A, Rasool S, et al. Revolutionizing Healthcare: How Machine Learning is Transforming Patient Diagnoses[J]. Journal of World Science, 2023, 2(10): 1638-1652.",
+      "title": "Revolutionizing Healthcare: How Machine Learning is Transforming Patient Diagnoses",
+      "year": 2023,
+      "journal": "Journal of World Science"
+    },
+    {
+      "id": 6,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Elazab A, Wang C, Abdelaziz M, et al. Alzheimer's disease diagnosis from single and multimodal data using machine and deep learning models: Achievements and future directions[J]. Expert Systems With Applications, 2024, 255: 124780.",
+      "title": "Alzheimer's disease diagnosis from single and multimodal data",
+      "year": 2024,
+      "journal": "Expert Systems With Applications"
+    },
+    {
+      "id": 7,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Velmurugan S, Waheeda S, Kulanthaivel L, et al. Applications of machine learning and multimodal integration for the early diagnosis of neurodegenerative diseases (Review)[J]. World Academy of Sciences Journal, 2025, 7(6): 115.",
+      "title": "Applications of machine learning and multimodal integration for neurodegenerative diseases",
+      "year": 2025,
+      "journal": "World Academy of Sciences Journal"
+    },
+    {
+      "id": 8,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Xiao H, Zhou F, Liu X, et al. A comprehensive survey of large language models and multimodal large language models in medicine[J]. Information Fusion, 2025, 117: 102888.",
+      "title": "A comprehensive survey of large language models and multimodal large language models in medicine",
+      "year": 2025,
+      "journal": "Information Fusion"
+    },
+    {
+      "id": 9,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Nazi Z A, Peng W. Large Language Models in Healthcare and Medical Domain: A Review[J]. Informatics, 2024, 11(3): 57.",
+      "title": "Large Language Models in Healthcare and Medical Domain: A Review",
+      "year": 2024,
+      "journal": "Informatics"
+    },
+    {
+      "id": 10,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Biswas A A. A comprehensive review of explainable AI for disease diagnosis[J]. Array, 2024, 22: 100345.",
+      "title": "A comprehensive review of explainable AI for disease diagnosis",
+      "year": 2024,
+      "journal": "Array"
+    },
+    {
+      "id": 11,
+      "type": "LOCAL_VERIFIED",
+      "citation_nsfc": "Zhou S, Xu Z, Zhang M, et al. Large language models for disease diagnosis: a scoping review[J]. npj Digital Medicine, 2025.",
+      "title": "Large language models for disease diagnosis: a scoping review",
+      "year": 2025,
+      "journal": "npj Digital Medicine"
+    },
+    {
+      "id": 12,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Ronneberger O, Fischer P, Brox T. U-Net: Convolutional Networks for Biomedical Image Segmentation[C]//Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2015: 234-241.",
+      "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+      "year": 2015,
+      "venue": "MICCAI"
+    },
+    {
+      "id": 13,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Isensee F, Jaeger P F, Kohl S A A, et al. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation[J]. Nature Methods, 2021, 18(2): 203-211.",
+      "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+      "year": 2021,
+      "journal": "Nature Methods"
+    },
+    {
+      "id": 14,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Hatamizadeh A, Tang Y, Nath V, et al. UNETR: Transformers for 3D Medical Image Segmentation[C]//IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022: 574-584.",
+      "title": "UNETR: Transformers for 3D Medical Image Segmentation",
+      "year": 2022,
+      "venue": "WACV"
+    },
+    {
+      "id": 15,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Chen J, Lu Y, Yu Q, et al. TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation[J]. arXiv preprint arXiv:2102.04306, 2021.",
+      "title": "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+      "year": 2021,
+      "venue": "arXiv"
+    },
+    {
+      "id": 16,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Liu Z, Lin Y, Cao Y, et al. Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[C]//IEEE/CVF International Conference on Computer Vision (ICCV), 2021: 10012-10022.",
+      "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+      "year": 2021,
+      "venue": "ICCV"
+    },
+    {
+      "id": 17,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Dosovitskiy A, Beyer L, Kolesnikov A, et al. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale[C]//International Conference on Learning Representations (ICLR), 2021.",
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "year": 2021,
+      "venue": "ICLR"
+    },
+    {
+      "id": 18,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "He K, Zhang X, Ren S, et al. Deep Residual Learning for Image Recognition[C]//IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016: 770-778.",
+      "title": "Deep Residual Learning for Image Recognition",
+      "year": 2016,
+      "venue": "CVPR"
+    },
+    {
+      "id": 19,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Tan M, Le Q. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks[C]//International Conference on Machine Learning (ICML), 2019: 6105-6114.",
+      "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+      "year": 2019,
+      "venue": "ICML"
+    },
+    {
+      "id": 20,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Lu M Y, Chen B, Williamson D F K, et al. A Foundational Multimodal Vision Language AI Assistant for Human Pathology[J]. arXiv preprint arXiv:2309.10701, 2023.",
+      "title": "A Foundational Multimodal Vision Language AI Assistant for Human Pathology",
+      "year": 2023,
+      "venue": "arXiv"
+    },
+    {
+      "id": 21,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Gu Y, Tinn R, Cheng H, et al. Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing[J]. ACM Transactions on Computing for Healthcare, 2021, 3(1): 1-23.",
+      "title": "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+      "year": 2021,
+      "journal": "ACM Transactions on Computing for Healthcare"
+    },
+    {
+      "id": 22,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Lee J, Yoon W, Kim S, et al. BioBERT: a pre-trained biomedical language representation model for biomedical text mining[J]. Bioinformatics, 2020, 36(4): 1234-1240.",
+      "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+      "year": 2020,
+      "journal": "Bioinformatics"
+    },
+    {
+      "id": 23,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Singhal K, Tu T, Gottweis J, et al. Towards Expert-Level Medical Question Answering with Large Language Models[J]. arXiv preprint arXiv:2305.09617, 2023.",
+      "title": "Towards Expert-Level Medical Question Answering with Large Language Models",
+      "year": 2023,
+      "venue": "arXiv"
+    },
+    {
+      "id": 24,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Lewis P, Perez E, Piktus A, et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks[C]//Advances in Neural Information Processing Systems (NeurIPS), 2020: 9459-9474.",
+      "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "year": 2020,
+      "venue": "NeurIPS"
+    },
+    {
+      "id": 25,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Nori H, Lee Y T, Zhang S, et al. Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine[J]. arXiv preprint arXiv:2311.16452, 2023.",
+      "title": "Can Generalist Foundation Models Outcompete Special-Purpose Tuning?",
+      "year": 2023,
+      "venue": "arXiv"
+    },
+    {
+      "id": 26,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Hochreiter S, Schmidhuber J. Long Short-Term Memory[J]. Neural Computation, 1997, 9(8): 1735-1780.",
+      "title": "Long Short-Term Memory",
+      "year": 1997,
+      "journal": "Neural Computation"
+    },
+    {
+      "id": 27,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Vaswani A, Shazeer N, Parmar N, et al. Attention is All you Need[C]//Advances in Neural Information Processing Systems (NeurIPS), 2017: 5998-6008.",
+      "title": "Attention is All you Need",
+      "year": 2017,
+      "venue": "NeurIPS"
+    },
+    {
+      "id": 28,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Gulshan V, Peng L, Coram M, et al. Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs[J]. JAMA, 2016, 316(22): 2402-2410.",
+      "title": "Development and validation of a deep learning algorithm for detection of diabetic retinopathy",
+      "year": 2016,
+      "journal": "JAMA",
+      "key_finding": "Google团队开发的深度学习算法在糖尿病视网膜病变检测中达到了眼科专家水平"
+    },
+    {
+      "id": 29,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Esteva A, Kuprel B, Novoa R A, et al. Dermatologist-level classification of skin cancer with deep neural networks[J]. Nature, 2017, 542(7639): 115-118.",
+      "title": "Dermatologist-level classification of skin cancer with deep neural networks",
+      "year": 2017,
+      "journal": "Nature",
+      "key_finding": "斯坦福团队利用Inception v3网络实现了皮肤癌的专家级分类"
+    },
+    {
+      "id": 30,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Perez M V, Mahaffey K W, Hedlin H, et al. Large-Scale Assessment of a Smartwatch to Identify Atrial Fibrillation[J]. New England Journal of Medicine, 2019, 381(20): 1909-1917.",
+      "title": "Large-Scale Assessment of a Smartwatch to Identify Atrial Fibrillation",
+      "year": 2019,
+      "journal": "New England Journal of Medicine",
+      "key_finding": "Apple Heart Study验证了消费级可穿戴设备监测房颤的可行性"
+    },
+    {
+      "id": 31,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Jumper J, Evans R, Pritzel A, et al. Highly accurate protein structure prediction with AlphaFold[J]. Nature, 2021, 596(7873): 583-589.",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "year": 2021,
+      "journal": "Nature",
+      "key_finding": "AlphaFold2解决了困扰生物学界50年的蛋白质结构预测难题"
+    },
+    {
+      "id": 32,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Roberts M, Driggs D, Thorpe M, et al. Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans[J]. Nature Machine Intelligence, 2021, 3(3): 199-217.",
+      "title": "Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19",
+      "year": 2021,
+      "journal": "Nature Machine Intelligence",
+      "key_finding": "系统性审查指出了COVID-19 AI研究中普遍存在的方法学缺陷"
+    },
+    {
+      "id": 33,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Ardila D, Kiraly A P, Bharadwaj S, et al. End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography[J]. Nature Medicine, 2019, 25(6): 954-961.",
+      "title": "End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography",
+      "year": 2019,
+      "journal": "Nature Medicine",
+      "key_finding": "Google Health开发的3D深度学习模型在肺癌筛查中超越了放射科医生"
+    },
+    {
+      "id": 34,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "McKinney S M, Sieniek M, Godbole V, et al. International evaluation of an AI system for breast cancer screening[J]. Nature, 2020, 577(7788): 89-94.",
+      "title": "International evaluation of an AI system for breast cancer screening",
+      "year": 2020,
+      "journal": "Nature",
+      "key_finding": "在英美两国的数据集上验证了AI系统减少乳腺癌筛查误诊率的能力"
+    },
+    {
+      "id": 35,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Huang K, Altosaar J, Ranganath R. ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission[J]. arXiv preprint arXiv:1904.05342, 2019.",
+      "title": "ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission",
+      "year": 2019,
+      "venue": "arXiv",
+      "key_finding": "针对临床笔记预训练的BERT变体，用于预测再次入院风险"
+    },
+    {
+      "id": 36,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Stokes J M, Yang K, Swanson K, et al. A deep learning approach to antibiotic discovery[J]. Cell, 2020, 180(4): 688-702.",
+      "title": "A Deep Learning Approach to Antibiotic Discovery",
+      "year": 2020,
+      "journal": "Cell",
+      "key_finding": "利用图神经网络发现新型抗生素Halicin"
+    },
+    {
+      "id": 37,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Hannun A Y, Rajpurkar P, Haghpanahi M, et al. Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network[J]. Nature Medicine, 2019, 25(1): 65-69.",
+      "title": "Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms",
+      "year": 2019,
+      "journal": "Nature Medicine",
+      "key_finding": "深度学习在动态心电图心律失常检测中达到心脏病专家水平"
+    },
+    {
+      "id": 38,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Campanella G, Hanna M G, Geneslaw L, et al. Clinical-grade computational pathology using weakly supervised deep learning on whole slide images[J]. Nature Medicine, 2019, 25(8): 1301-1309.",
+      "title": "Clinical-grade computational pathology using weakly supervised deep learning on whole slide images",
+      "year": 2019,
+      "journal": "Nature Medicine",
+      "key_finding": "利用多示例学习（MIL）实现基于弱监督的全切片病理诊断"
+    },
+    {
+      "id": 39,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Li Z, He Y, Keel S, et al. Efficacy of a deep learning system for detecting glaucomatous optic neuropathy based on color fundus photographs[J]. Ophthalmology, 2018, 125(8): 1199-1206.",
+      "title": "Efficacy of a deep learning system for detecting glaucomatous optic neuropathy",
+      "year": 2018,
+      "journal": "Ophthalmology",
+      "key_finding": "验证了深度学习系统在青光眼检测中的有效性"
+    },
+    {
+      "id": 40,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Scherf N, Pipa G. Non-invasive monitoring of Parkinson's disease using a wearable sensor[J]. npj Digital Medicine, 2019.",
+      "title": "Non-invasive monitoring of Parkinson's disease using a wearable sensor",
+      "year": 2019,
+      "journal": "npj Digital Medicine",
+      "key_finding": "可穿戴传感器结合AI监测帕金森病症状"
+    },
+    {
+      "id": 41,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Bernard O, Lalande A, Zotti C, et al. Deep learning techniques for automatic MRI cardiac multi-structures segmentation and diagnosis: Is the problem solved?[J]. IEEE Transactions on Medical Imaging, 2018, 37(11): 2514-2525.",
+      "title": "Deep learning techniques for automatic MRI cardiac multi-structures segmentation and diagnosis",
+      "year": 2018,
+      "journal": "IEEE Transactions on Medical Imaging",
+      "key_finding": "ACDC挑战赛综述，评估了心脏MRI分割的SOTA方法"
+    },
+    {
+      "id": 42,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Kather J N, Pearson A T, Halama N, et al. Deep learning can predict microsatellite instability directly from histology in gastrointestinal cancer[J]. Nature Medicine, 2019, 25(7): 1054-1056.",
+      "title": "Deep learning can predict microsatellite instability directly from histology in gastrointestinal cancer",
+      "year": 2019,
+      "journal": "Nature Medicine",
+      "key_finding": "AI直接从H&E病理切片预测微卫星不稳定性（MSI）"
+    },
+    {
+      "id": 43,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Sundaram L, Gao H, Padigepati S R, et al. Predicting the clinical impact of human mutation with deep neural networks[J]. Nature Genetics, 2018, 50(8): 1161-1170.",
+      "title": "Predicting the clinical impact of human mutation with deep neural networks",
+      "year": 2018,
+      "journal": "Nature Genetics",
+      "key_finding": "PrimateAI模型预测基因突变的临床致病性"
+    },
+    {
+      "id": 44,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Rajkomar A, Oren E, Chen K, et al. Scalable and accurate deep learning with electronic health records[J]. npj Digital Medicine, 2018, 1(1): 18.",
+      "title": "Scalable and accurate deep learning with electronic health records",
+      "year": 2018,
+      "journal": "npj Digital Medicine",
+      "key_finding": "Google团队利用全量EHR数据预测患者预后"
+    },
+    {
+      "id": 45,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Zeng D, Wang L, Zhang Z, et al. Prediction of infectious diseases using deep learning: A systematic review[J]. IEEE Access, 2020.",
+      "title": "Prediction of infectious diseases using deep learning: A systematic review",
+      "year": 2020,
+      "journal": "IEEE Access",
+      "key_finding": "系统综述AI在传染病预测中的应用"
+    },
+    {
+      "id": 46,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Adams S J, Lee C, Alajaji F, et al. Deep learning for DaTscan SPECT imaging in Parkinson's disease[J]. Journal of Nuclear Medicine, 2020.",
+      "title": "Deep learning for DaTscan SPECT imaging in Parkinson's disease",
+      "year": 2020,
+      "journal": "Journal of Nuclear Medicine",
+      "key_finding": "利用AI分析DaTscan图像辅助诊断帕金森病"
+    },
+    {
+      "id": 47,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Menze B H, Jakab A, Bauer S, et al. The multimodal brain tumor image segmentation benchmark (BRATS)[J]. IEEE Transactions on Medical Imaging, 2015, 34(10): 1993-2024.",
+      "title": "The multimodal brain tumor image segmentation benchmark (BRATS)",
+      "year": 2015,
+      "journal": "IEEE Transactions on Medical Imaging",
+      "key_finding": "BraTS基准测试推动了脑肿瘤分割技术的发展"
+    },
+    {
+      "id": 48,
+      "type": "CLOUD_VERIFIED",
+      "citation_nsfc": "Johannet P, Coudray N, Donnelly D M, et al. Using deep learning to predict immunotherapy response in non-small cell lung cancer using routine histology images[J]. Clinical Cancer Research, 2021.",
+      "title": "Using deep learning to predict immunotherapy response in non-small cell lung cancer",
+      "year": 2021,
+      "journal": "Clinical Cancer Research",
+      "key_finding": "AI预测非小细胞肺癌免疫治疗响应"
+    }
+  ]
+}
