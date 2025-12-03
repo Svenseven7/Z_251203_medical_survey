@@ -1,13 +1,15 @@
 {
   "meta": {
     "chapter": "第一章：摘要 (Abstract)",
-    "total_references": 10,
+    "total_references": 11,
     "language": "Chinese",
-    "format": "IEEE TMI Style"
+    "format": "NSFC Style"
   },
-  "references": [
+  "verification_queue": [
     {
       "id": 1,
+      "placeholder_id": "{REF_CNNReview_2025_Medical}",
+      "type": "VERIFY_PRIMARY",
       "authors": "Mienye I D, Swart T G, Obaido G, et al.",
       "year": 2025,
       "title": "Deep Convolutional Neural Networks in Medical Image Analysis: A Review",
@@ -19,6 +21,8 @@
     },
     {
       "id": 2,
+      "placeholder_id": "{REF_Gou_2024_AIAssisted}",
+      "type": "VERIFY_PRIMARY",
       "authors": "Gou F, Liu J, Xiao C, et al.",
       "year": 2024,
       "title": "Research on Artificial-Intelligence-Assisted Medicine: A Survey on Medical Artificial Intelligence",
@@ -30,35 +34,8 @@
     },
     {
       "id": 3,
-      "authors": "Xiao H, Zhou F, Liu X, et al.",
-      "year": 2025,
-      "title": "A comprehensive survey of large language models and multimodal large language models in medicine",
-      "journal": "Information Fusion",
-      "volume": "117",
-      "article": "102888",
-      "keywords": ["LLM", "MLLM", "medicine", "survey"]
-    },
-    {
-      "id": 4,
-      "authors": "Nazi Z A, Peng W",
-      "year": 2024,
-      "title": "Large Language Models in Healthcare and Medical Domain: A Review",
-      "journal": "Informatics",
-      "volume": "11",
-      "issue": "3",
-      "article": "57",
-      "keywords": ["LLM", "healthcare", "medical domain", "review"]
-    },
-    {
-      "id": 5,
-      "authors": "Zhou S, Xu Z, Zhang M, et al.",
-      "year": 2025,
-      "title": "Large language models for disease diagnosis: a scoping review",
-      "journal": "npj Digital Medicine",
-      "keywords": ["LLM", "disease diagnosis", "scoping review"]
-    },
-    {
-      "id": 6,
+      "placeholder_id": "{REF_Rahman_2024_SmartHealth}",
+      "type": "VERIFY_PRIMARY",
       "authors": "Rahman A, Debnath T, Kundu D, et al.",
       "year": 2024,
       "title": "Machine learning and deep learning-based approach in smart healthcare: Recent advances, applications, challenges and opportunities",
@@ -69,7 +46,44 @@
       "keywords": ["machine learning", "deep learning", "smart healthcare", "challenges"]
     },
     {
+      "id": 4,
+      "placeholder_id": "{REF_Xiao_2025_LLMSurvey}",
+      "type": "VERIFY_PRIMARY",
+      "authors": "Xiao H, Zhou F, Liu X, et al.",
+      "year": 2025,
+      "title": "A comprehensive survey of large language models and multimodal large language models in medicine",
+      "journal": "Information Fusion",
+      "volume": "117",
+      "article": "102888",
+      "keywords": ["LLM", "MLLM", "medicine", "survey"]
+    },
+    {
+      "id": 5,
+      "placeholder_id": "{REF_Nazi_2024_LLMHealthcare}",
+      "type": "VERIFY_PRIMARY",
+      "authors": "Nazi Z A, Peng W",
+      "year": 2024,
+      "title": "Large Language Models in Healthcare and Medical Domain: A Review",
+      "journal": "Informatics",
+      "volume": "11",
+      "issue": "3",
+      "article": "57",
+      "keywords": ["LLM", "healthcare", "medical domain", "review"]
+    },
+    {
+      "id": 6,
+      "placeholder_id": "{REF_LLMDiag_2025_Review}",
+      "type": "VERIFY_PRIMARY",
+      "authors": "Zhou S, Xu Z, Zhang M, et al.",
+      "year": 2025,
+      "title": "Large language models for disease diagnosis: a scoping review",
+      "journal": "npj Digital Medicine",
+      "keywords": ["LLM", "disease diagnosis", "scoping review"]
+    },
+    {
       "id": 7,
+      "placeholder_id": "{REF_Biswas_2024_XAI}",
+      "type": "VERIFY_PRIMARY",
       "authors": "Biswas A A",
       "year": 2024,
       "title": "A comprehensive review of explainable AI for disease diagnosis",
@@ -80,6 +94,8 @@
     },
     {
       "id": 8,
+      "placeholder_id": "{REF_Asif_2025_MLDiagnostics}",
+      "type": "VERIFY_PRIMARY",
       "authors": "Asif S, Wenhui Y, Saif-ur-Rehman, et al.",
       "year": 2025,
       "title": "Advancements and Prospects of Machine Learning in Medical Diagnostics: Unveiling the Future of Diagnostic Precision",
@@ -90,6 +106,21 @@
     },
     {
       "id": 9,
+      "placeholder_id": "{REF_Gill_2023_Healthcare}",
+      "type": "VERIFY_PRIMARY",
+      "authors": "Gill A Y, Saeed A, Rasool S, et al.",
+      "year": 2023,
+      "title": "Revolutionizing Healthcare: How Machine Learning is Transforming Patient Diagnoses",
+      "journal": "Journal of World Science",
+      "volume": "2",
+      "issue": "10",
+      "pages": "1638-1652",
+      "keywords": ["healthcare", "machine learning", "patient diagnoses"]
+    },
+    {
+      "id": 10,
+      "placeholder_id": "{REF_Elazab_2024_AD}",
+      "type": "VERIFY_PRIMARY",
       "authors": "Elazab A, Wang C, Abdelaziz M, et al.",
       "year": 2024,
       "title": "Alzheimer's disease diagnosis from single and multimodal data using machine and deep learning models: Achievements and future directions",
@@ -99,7 +130,9 @@
       "keywords": ["Alzheimer's disease", "multimodal", "deep learning", "diagnosis"]
     },
     {
-      "id": 10,
+      "id": 11,
+      "placeholder_id": "{REF_Velmurugan_2025_NDD}",
+      "type": "VERIFY_PRIMARY",
       "authors": "Velmurugan S, Waheeda S, Kulanthaivel L, et al.",
       "year": 2025,
       "title": "Applications of machine learning and multimodal integration for the early diagnosis of neurodegenerative diseases (Review)",
@@ -109,5 +142,6 @@
       "article": "115",
       "keywords": ["neurodegenerative diseases", "multimodal integration", "early diagnosis"]
     }
-  ]
+  ],
+  "search_requests": []
 }
