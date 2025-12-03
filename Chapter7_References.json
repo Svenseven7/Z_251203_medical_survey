@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "chapter": "第七章：结论 (Conclusion)",
+    "total_references": 22,
+    "language": "Chinese",
+    "format": "IEEE TMI Style"
+  },
+  "references": [
+    {
+      "id": 1,
+      "authors": "Mienye I D, Swart T G, Obaido G, et al.",
+      "year": 2025,
+      "title": "Deep Convolutional Neural Networks in Medical Image Analysis: A Review",
+      "journal": "Information",
+      "volume": "16",
+      "issue": "3",
+      "article": "195",
+      "keywords": ["CNN", "medical imaging", "deep learning"]
+    },
+    {
+      "id": 2,
+      "authors": "Ronneberger O, Fischer P, Brox T",
+      "year": 2015,
+      "title": "U-Net: Convolutional networks for biomedical image segmentation",
+      "venue": "MICCAI",
+      "pages": "234-241",
+      "keywords": ["U-Net", "segmentation", "biomedical imaging"]
+    },
+    {
+      "id": 3,
+      "authors": "Isensee F, Jaeger P F, Kohl S A A, et al.",
+      "year": 2021,
+      "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+      "journal": "Nature Methods",
+      "volume": "18",
+      "issue": "2",
+      "pages": "203-211",
+      "keywords": ["nnU-Net", "self-configuring", "biomedical segmentation"]
+    },
+    {
+      "id": 4,
+      "authors": "Chen J, Lu Y, Yu Q, et al.",
+      "year": 2021,
+      "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+      "venue": "arXiv preprint arXiv:2102.04306",
+      "keywords": ["TransUNet", "Transformer", "medical segmentation"]
+    },
+    {
+      "id": 5,
+      "authors": "Hatamizadeh A, Tang Y, Nath V, et al.",
+      "year": 2022,
+      "title": "UNETR: Transformers for 3D medical image segmentation",
+      "venue": "WACV",
+      "pages": "574-584",
+      "keywords": ["UNETR", "3D segmentation", "Transformer"]
+    },
+    {
+      "id": 6,
+      "authors": "Xiao H, Zhou F, Liu X, et al.",
+      "year": 2025,
+      "title": "A comprehensive survey of large language models and multimodal large language models in medicine",
+      "journal": "Information Fusion",
+      "volume": "117",
+      "article": "102888",
+      "keywords": ["LLM", "MLLM", "medicine"]
+    },
+    {
+      "id": 7,
+      "authors": "Singhal K, Tu T, Gottweis J, et al.",
+      "year": 2023,
+      "title": "Towards expert-level medical question answering with large language models",
+      "venue": "arXiv preprint arXiv:2305.09617",
+      "keywords": ["Med-PaLM 2", "medical QA", "LLM"]
+    },
+    {
+      "id": 8,
+      "authors": "Li C, Wong C, Zhang S, et al.",
+      "year": 2023,
+      "title": "LLaVA-Med: Training a large language-and-vision assistant for biomedicine in one day",
+      "venue": "NeurIPS",
+      "keywords": ["LLaVA-Med", "vision-language", "biomedicine"]
+    },
+    {
+      "id": 9,
+      "authors": "Gou F, Liu J, Xiao C, et al.",
+      "year": 2024,
+      "title": "Research on Artificial-Intelligence-Assisted Medicine: A Survey on Medical Artificial Intelligence",
+      "journal": "Diagnostics",
+      "volume": "14",
+      "issue": "14",
+      "article": "1472",
+      "keywords": ["AI-assisted medicine", "survey"]
+    },
+    {
+      "id": 10,
+      "authors": "Rahman A, Debnath T, Kundu D, et al.",
+      "year": 2024,
+      "title": "Machine learning and deep learning-based approach in smart healthcare: Recent advances, applications, challenges and opportunities",
+      "journal": "AIMS Public Health",
+      "volume": "11",
+      "issue": "1",
+      "pages": "58-109",
+      "keywords": ["smart healthcare", "ML", "DL"]
+    },
+    {
+      "id": 11,
+      "authors": "Gulshan V, Peng L, Coram M, et al.",
+      "year": 2016,
+      "title": "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs",
+      "journal": "JAMA",
+      "volume": "316",
+      "issue": "22",
+      "pages": "2402-2410",
+      "keywords": ["diabetic retinopathy", "deep learning", "ophthalmology"]
+    },
+    {
+      "id": 12,
+      "authors": "Jumper J, Evans R, Pritzel A, et al.",
+      "year": 2021,
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "journal": "Nature",
+      "volume": "596",
+      "issue": "7873",
+      "pages": "583-589",
+      "keywords": ["AlphaFold", "protein structure", "prediction"]
+    },
+    {
+      "id": 13,
+      "authors": "Rieke N, Hancox J, Li W, et al.",
+      "year": 2020,
+      "title": "The future of digital health with federated learning",
+      "journal": "npj Digital Medicine",
+      "volume": "3",
+      "issue": "1",
+      "article": "119",
+      "keywords": ["federated learning", "digital health", "privacy"]
+    },
+    {
+      "id": 14,
+      "authors": "Johnson J M, Khoshgoftaar T M",
+      "year": 2019,
+      "title": "Survey on deep learning with class imbalance",
+      "journal": "Journal of Big Data",
+      "volume": "6",
+      "issue": "1",
+      "pages": "1-54",
+      "keywords": ["class imbalance", "deep learning", "survey"]
+    },
+    {
+      "id": 15,
+      "authors": "Biswas A A",
+      "year": 2024,
+      "title": "A comprehensive review of explainable AI for disease diagnosis",
+      "journal": "Array",
+      "volume": "22",
+      "article": "100345",
+      "keywords": ["explainable AI", "XAI", "disease diagnosis"]
+    },
+    {
+      "id": 16,
+      "authors": "Obermeyer Z, Powers B, Vogeli C, et al.",
+      "year": 2019,
+      "title": "Dissecting racial bias in an algorithm used to manage the health of populations",
+      "journal": "Science",
+      "volume": "366",
+      "issue": "6464",
+      "pages": "447-453",
+      "keywords": ["racial bias", "algorithm", "healthcare disparity"]
+    },
+    {
+      "id": 17,
+      "authors": "Ji Z, Lee N, Frieske R, et al.",
+      "year": 2023,
+      "title": "Survey of hallucination in natural language generation",
+      "journal": "ACM Computing Surveys",
+      "volume": "55",
+      "issue": "12",
+      "pages": "1-38",
+      "keywords": ["hallucination", "NLG", "LLM"]
+    },
+    {
+      "id": 18,
+      "authors": "Benjamens S, Dhunnoo P, Meskó B",
+      "year": 2020,
+      "title": "The state of artificial intelligence-based FDA-approved medical devices and algorithms: an online database",
+      "journal": "npj Digital Medicine",
+      "volume": "3",
+      "issue": "1",
+      "article": "118",
+      "keywords": ["FDA", "AI medical devices", "regulation"]
+    },
+    {
+      "id": 19,
+      "authors": "Topol E J",
+      "year": 2019,
+      "title": "High-performance medicine: the convergence of human and artificial intelligence",
+      "journal": "Nature Medicine",
+      "volume": "25",
+      "issue": "1",
+      "pages": "44-56",
+      "keywords": ["high-performance medicine", "human-AI", "convergence"]
+    },
+    {
+      "id": 20,
+      "authors": "Dwork C, Roth A",
+      "year": 2014,
+      "title": "The algorithmic foundations of differential privacy",
+      "journal": "Foundations and Trends® in Theoretical Computer Science",
+      "volume": "9",
+      "issue": "3-4",
+      "pages": "211-407",
+      "keywords": ["differential privacy", "algorithm", "privacy"]
+    },
+    {
+      "id": 21,
+      "authors": "Howard A G, Zhu M, Chen B, et al.",
+      "year": 2017,
+      "title": "MobileNets: Efficient convolutional neural networks for mobile vision applications",
+      "venue": "arXiv preprint arXiv:1704.04861",
+      "keywords": ["MobileNets", "efficient CNN", "mobile"]
+    },
+    {
+      "id": 22,
+      "authors": "Tschandl P, Rinner C, Apalla Z, et al.",
+      "year": 2020,
+      "title": "Human-computer collaboration for skin cancer recognition",
+      "journal": "Nature Medicine",
+      "volume": "26",
+      "issue": "8",
+      "pages": "1229-1234",
+      "keywords": ["human-computer collaboration", "skin cancer", "dermatology"]
+    }
+  ]
+}

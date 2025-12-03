@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "chapter": "第一章：摘要 (Abstract)",
+    "total_references": 10,
+    "language": "Chinese",
+    "format": "IEEE TMI Style"
+  },
+  "references": [
+    {
+      "id": 1,
+      "authors": "Mienye I D, Swart T G, Obaido G, et al.",
+      "year": 2025,
+      "title": "Deep Convolutional Neural Networks in Medical Image Analysis: A Review",
+      "journal": "Information",
+      "volume": "16",
+      "issue": "3",
+      "article": "195",
+      "keywords": ["CNN", "medical imaging", "deep learning", "review"]
+    },
+    {
+      "id": 2,
+      "authors": "Gou F, Liu J, Xiao C, et al.",
+      "year": 2024,
+      "title": "Research on Artificial-Intelligence-Assisted Medicine: A Survey on Medical Artificial Intelligence",
+      "journal": "Diagnostics",
+      "volume": "14",
+      "issue": "14",
+      "article": "1472",
+      "keywords": ["AI-assisted medicine", "medical AI", "survey"]
+    },
+    {
+      "id": 3,
+      "authors": "Xiao H, Zhou F, Liu X, et al.",
+      "year": 2025,
+      "title": "A comprehensive survey of large language models and multimodal large language models in medicine",
+      "journal": "Information Fusion",
+      "volume": "117",
+      "article": "102888",
+      "keywords": ["LLM", "MLLM", "medicine", "survey"]
+    },
+    {
+      "id": 4,
+      "authors": "Nazi Z A, Peng W",
+      "year": 2024,
+      "title": "Large Language Models in Healthcare and Medical Domain: A Review",
+      "journal": "Informatics",
+      "volume": "11",
+      "issue": "3",
+      "article": "57",
+      "keywords": ["LLM", "healthcare", "medical domain", "review"]
+    },
+    {
+      "id": 5,
+      "authors": "Zhou S, Xu Z, Zhang M, et al.",
+      "year": 2025,
+      "title": "Large language models for disease diagnosis: a scoping review",
+      "journal": "npj Digital Medicine",
+      "keywords": ["LLM", "disease diagnosis", "scoping review"]
+    },
+    {
+      "id": 6,
+      "authors": "Rahman A, Debnath T, Kundu D, et al.",
+      "year": 2024,
+      "title": "Machine learning and deep learning-based approach in smart healthcare: Recent advances, applications, challenges and opportunities",
+      "journal": "AIMS Public Health",
+      "volume": "11",
+      "issue": "1",
+      "pages": "58-109",
+      "keywords": ["machine learning", "deep learning", "smart healthcare", "challenges"]
+    },
+    {
+      "id": 7,
+      "authors": "Biswas A A",
+      "year": 2024,
+      "title": "A comprehensive review of explainable AI for disease diagnosis",
+      "journal": "Array",
+      "volume": "22",
+      "article": "100345",
+      "keywords": ["explainable AI", "XAI", "disease diagnosis", "review"]
+    },
+    {
+      "id": 8,
+      "authors": "Asif S, Wenhui Y, Saif-ur-Rehman, et al.",
+      "year": 2025,
+      "title": "Advancements and Prospects of Machine Learning in Medical Diagnostics: Unveiling the Future of Diagnostic Precision",
+      "journal": "Archives of Computational Methods in Engineering",
+      "volume": "32",
+      "pages": "853-883",
+      "keywords": ["machine learning", "medical diagnostics", "diagnostic precision"]
+    },
+    {
+      "id": 9,
+      "authors": "Elazab A, Wang C, Abdelaziz M, et al.",
+      "year": 2024,
+      "title": "Alzheimer's disease diagnosis from single and multimodal data using machine and deep learning models: Achievements and future directions",
+      "journal": "Expert Systems With Applications",
+      "volume": "255",
+      "article": "124780",
+      "keywords": ["Alzheimer's disease", "multimodal", "deep learning", "diagnosis"]
+    },
+    {
+      "id": 10,
+      "authors": "Velmurugan S, Waheeda S, Kulanthaivel L, et al.",
+      "year": 2025,
+      "title": "Applications of machine learning and multimodal integration for the early diagnosis of neurodegenerative diseases (Review)",
+      "journal": "World Academy of Sciences Journal",
+      "volume": "7",
+      "issue": "6",
+      "article": "115",
+      "keywords": ["neurodegenerative diseases", "multimodal integration", "early diagnosis"]
+    }
+  ]
+}
